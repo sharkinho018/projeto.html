@@ -1,0 +1,34 @@
+body {
+    background: rgba(73, 67, 153, 0.527);
+    font: normal 15pt arial;
+}
+
+header {
+    color: bisque;
+}
+
+h1 {
+    background: rgb(238, 61, 7);
+}
+
+hr {
+    background: whitesmoke;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+section {
+    background: wheat;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    margin: auto;
+    float: left; /*PUTA QUE PARIU FINALMENTE CONSEGUI COLOCAAR ESSA PORRA NA ESQUERDA*/    
+}
+
+
+h3 {
+    background-color: wheat;
+    border-radius: 10px;
+    box-shadow: 10px 10px;
+}
